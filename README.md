@@ -19,4 +19,6 @@ if you want to create a new environment install anaconda 3 and work with conda p
     pip install "C:\Users\(username)\Downloads\PyBluez-0.22-cp37-cp37m-win_amd64.whl"
     pip install requests
     
-once setup is done, execute the
+once setup is done, execute the file (test_bluetooth_bosch_glm50c.py)
+
+attached the screenshot for the output.
